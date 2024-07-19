@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Arun",
+    "email": "arunkumar@gmail.com",
+    "priority": "low",
+    "mode": "mail",
+    "status": "open",
+    "description": "User unable to log in, requires investigation."
+  },
+  {
+    "name": "Karthick",
+    "email": "karthick@gmail.com",
+    "priority": "medium",
+    "mode": "sms",
+    "status": "in-progress",
+    "description": "Error message not visible on the checkout page."
+  },
+  {
+    "name": "Harish",
+    "email": "harishKumar@gmail.com",
+    "priority": "high",
+    "mode": "gmail",
+    "status": "close",
+    "description": "Critical issue with payment gateway integration."
+  },
+  {
+    "name": "Suryaa",
+    "email": "suryaa@gmail.com",
+    "priority": "medium",
+    "mode": "whatsapp",
+    "status": "open",
+    "description": "Product images not displaying on mobile devices."
+  },
+  {
+    "name": "Shiva",
+    "email": "shiva@gmail.com",
+    "priority": "low",
+    "mode": "facebook",
+    "status": "in-progress",
+    "description": "Profile page UI misalignment problem."
+  },
+  {
+    "name": "Suthir",
+    "email": "suthir@gmail.com",
+    "priority": "high",
+    "mode": "mail",
+    "status": "open",
+    "description": "Database timeout during peak hours."
+  },
+  {
+    "name": "Naveen",
+    "email": "naveen@gmail.com",
+    "priority": "medium",
+    "mode": "sms",
+    "status": "close",
+    "description": "Incomplete search results issue."
+  },
+  {
+    "name": "Muthu",
+    "email": "muthukumar@gmail.com",
+    "priority": "low",
+    "mode": "gmail",
+    "status": "in-progress",
+    "description": "Slow page load times due to large images."
+  },
+  {
+    "name": "Shreeni Vasan",
+    "email": "shreenivasan@gmail.com",
+    "priority": "high",
+    "mode": "whatsapp",
+    "status": "open",
+    "description": "Backend server errors affecting user requests."
+  },
+  {
+    "name": "Mohan",
+    "email": "mohan@gmail.com",
+    "priority": "medium",
+    "mode": "facebook",
+    "status": "in-progress",
+    "description": "Form submission not sending email notifications."
+  },
+  {
+    "name": "Suman",
+    "email": "suman@gmail.com",
+    "priority": "low",
+    "mode": "mail",
+    "status": "close",
+    "description": "Missing navigation menu on mobile devices."
+  },
+  {
+    "name": "Adhitya",
+    "email": "adhitya@gmail.com",
+    "priority": "medium",
+    "mode": "sms",
+    "status": "open",
+    "description": "404 error when clicking 'Read More' in the blog."
+  },
+  {
+    "name": "Vishnu",
+    "email": "vishukumar@gmail.com",
+    "priority": "high",
+    "mode": "gmail",
+    "status": "in-progress",
+    "description": "Server overload during promotional campaign."
+  },
+  {
+    "name": "Kathir",
+    "email": "kathirvel@gmail.com",
+    "priority": "medium",
+    "mode": "whatsapp",
+    "status": "close",
+    "description": "Homepage slider video autoplay malfunction."
+  },
+  {
+    "name": "Sanath",
+    "email": "sanathabhinav@gmail.com",
+    "priority": "low",
+    "mode": "facebook",
+    "status": "open",
+    "description": "CSS changes not appearing on mobile browsers."
+  },
+  {
+    "name": "Alex",
+    "email": "alexraj@gmail.com",
+    "priority": "high",
+    "mode": "mail",
+    "status": "in-progress",
+    "description": "Issues with SSL certificate renewal causing connection problems."
+  },
+  {
+    "name": "Sathya",
+    "email": "sathya@gmail.com",
+    "priority": "medium",
+    "mode": "sms",
+    "status": "close",
+    "description": "Order confirmation email not received."
+  },
+  {
+    "name": "Praveen",
+    "email": "praveen@gmail.com",
+    "priority": "low",
+    "mode": "gmail",
+    "status": "open",
+    "description": "Banner image missing on homepage in some browsers."
+  },
+  {
+    "name": "Alen",
+    "email": "alen@gamil.com",
+    "priority": "medium",
+    "mode": "whatsapp",
+    "status": "in-progress",
+    "description": "Discrepancy in product prices across regions."
+  },
+  {
+    "name": "Vivek",
+    "email": "vivekraja@gmail.com",
+    "priority": "high",
+    "mode": "facebook",
+    "status": "close",
+    "description": "API endpoint intermittently returning 500 error."
+  },
+  {
+    "name": "Gowrishankar",
+    "email": "gowrishankar@gmail.com",
+    "priority": "medium",
+    "mode": "mail",
+    "status": "open",
+    "description": "Login session times out too quickly."
+  },
+  {
+    "name": "Srihari",
+    "email": "srihari@gamil.com",
+    "priority": "low",
+    "mode": "sms",
+    "status": "in-progress",
+    "description": "Checkout page freezes when applying discount code."
+  }
+]
