@@ -22,7 +22,7 @@ const Navbar = ({ onMenuClick, username }) => {
     const navigate = useNavigate();
 
     if (username == null) {
-        return <Navigate to="/" />;
+        return <Navigate to=".../" />;
     }
 
     const isMenuOpen = Boolean(anchorEl);
